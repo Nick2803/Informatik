@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Nam {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 Scanner Neim = new Scanner(System.in); 
 
 String Name1, Name2, Name3; 
